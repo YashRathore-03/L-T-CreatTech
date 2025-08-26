@@ -38,20 +38,4 @@ Start the Flask server with:
 ```
 The application will be available at `http://127.0.0.1:5000/`.
 
-## Project Structure
-```
-beamoptimizer-visualizer/
-├── static/
-│   ├── css/
-│   │   ├── styles.css
-├── templates/
-│   ├── index.html
-│   ├── results.html
-├── models/
-├── app.py
-├── requirements.txt
-├── README.md
-```
 
-## License
-This project is licensed under the MIT License.
